@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-09-26T00:00:00Z",
+  "generatedAt": "2026-09-28T14:31:47Z",
   "sourcePolicy": "Official FDA and Federal Register sources only. Entries are informational summaries with direct source links.",
   "entries": [
+    {
+      "date": "2026-09-24",
+      "displayDate": "Sep 24, 2026",
+      "title": "Robotically-Assisted Surgical Devices - Premarket Submissions - Draft Guidance for Industry and Food and Drug Administration Staff",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/robotically-assisted-surgical-devices-premarket-submissions",
+      "source": "FDA CDRH",
+      "topic": "FDA guidance"
+    },
+    {
+      "date": "2026-09-22",
+      "displayDate": "Sep 22, 2026",
+      "title": "Artificial Intelligence-Enabled Medical Devices",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/artificial-intelligence-enabled-medical-devices",
+      "source": "FDA CDRH",
+      "topic": "Digital health"
+    },
     {
       "date": "2026-09-17",
       "displayDate": "Sep 17, 2026",
@@ -9,6 +27,15 @@
       "summary": "FDA published draft guidance describing resources and content supporting electronic PMA submissions. The document is not for implementation while it remains a draft.",
       "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/electronic-submission-template-premarket-approval-applications-pma",
       "source": "FDA",
+      "topic": "FDA guidance"
+    },
+    {
+      "date": "2026-09-17",
+      "displayDate": "Sep 17, 2026",
+      "title": "Federal Register: Guidance: Electronic Submission Template for Medical Device Premarket Approval Applications",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.federalregister.gov/d/2026-19181",
+      "source": "FDA CDRH",
       "topic": "FDA guidance"
     },
     {
@@ -21,6 +48,15 @@
       "topic": "FDA learning"
     },
     {
+      "date": "2026-09-10",
+      "displayDate": "Sep 10, 2026",
+      "title": "Federal Register: Cardiovascular Devices; Classification of the Cardiovascular Machine Learning-Based Notification Software",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.federalregister.gov/d/2026-18612",
+      "source": "FDA CDRH",
+      "topic": "Digital health"
+    },
+    {
       "date": "2026-09-04",
       "displayDate": "Sep 4, 2026",
       "title": "FDA updates its list of AI-enabled medical devices",
@@ -28,6 +64,42 @@
       "url": "https://www.fda.gov/medical-devices/artificial-intelligence-enabled-medical-devices/list-artificial-intelligence-enabled-medical-devices",
       "source": "FDA CDRH",
       "topic": "Digital health"
+    },
+    {
+      "date": "2026-09-04",
+      "displayDate": "Sep 4, 2026",
+      "title": "Medical Devices that Incorporate Sensor-based Digital Health Technology",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/medical-devices-incorporate-sensor-based-digital-health-technology",
+      "source": "FDA CDRH",
+      "topic": "Digital health"
+    },
+    {
+      "date": "2026-09-03",
+      "displayDate": "Sep 3, 2026",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "source": "FDA CDRH",
+      "topic": "Digital health"
+    },
+    {
+      "date": "2026-09-01",
+      "displayDate": "Sep 1, 2026",
+      "title": "Dental Curing Lights - Premarket Notification (510(k)) Submissions - Guidance for Industry and Food and Drug Administration Staff",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/dental-curing-lights-premarket-notification-510k-submissions",
+      "source": "FDA CDRH",
+      "topic": "FDA guidance"
+    },
+    {
+      "date": "2026-09-01",
+      "displayDate": "Sep 1, 2026",
+      "title": "Dental Composite Resin Devices - Premarket Notification (510(k)) Submissions - Guidance for Industry and Food and Drug Administration Staff",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/dental-composite-resin-devices-premarket-notification-510k-submissions",
+      "source": "FDA CDRH",
+      "topic": "FDA guidance"
     }
   ]
 }
