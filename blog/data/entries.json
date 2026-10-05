@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-09-28T14:31:47Z",
+  "generatedAt": "2026-10-05T14:34:57Z",
   "sourcePolicy": "Official FDA and Federal Register sources only. Entries are informational summaries with direct source links.",
   "entries": [
+    {
+      "date": "2026-10-01",
+      "displayDate": "Oct 1, 2026",
+      "title": "CDRH Proposed Guidances for Fiscal Year 2027 (FY 2027)",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/cdrh-proposed-guidances-fiscal-year-2027-fy-2027",
+      "source": "FDA CDRH",
+      "topic": "FDA guidance"
+    },
     {
       "date": "2026-09-24",
       "displayDate": "Sep 24, 2026",
@@ -98,6 +107,69 @@
       "title": "Dental Composite Resin Devices - Premarket Notification (510(k)) Submissions - Guidance for Industry and Food and Drug Administration Staff",
       "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
       "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/dental-composite-resin-devices-premarket-notification-510k-submissions",
+      "source": "FDA CDRH",
+      "topic": "FDA guidance"
+    },
+    {
+      "date": "2026-09-01",
+      "displayDate": "Sep 1, 2026",
+      "title": "Federal Register: Dental Composite Resin Devices and Dental Curing Lights--Premarket Notification (510(k)) Submissions Guidances; Guidances for Industry and Food and Drug Administration Staff; Availability",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.federalregister.gov/d/2026-17933",
+      "source": "FDA CDRH",
+      "topic": "FDA guidance"
+    },
+    {
+      "date": "2026-08-27",
+      "displayDate": "Aug 27, 2026",
+      "title": "Federal Register Notices for Modifications to the List of Recognized Standard",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/medical-devices/division-standards-and-conformity-assessment/federal-register-documents",
+      "source": "FDA CDRH",
+      "topic": "Quality systems"
+    },
+    {
+      "date": "2026-08-21",
+      "displayDate": "Aug 21, 2026",
+      "title": "Participants Selected for TEMPO for Digital Health Devices Pilot",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/participants-selected-tempo-digital-health-devices-pilot",
+      "source": "FDA CDRH",
+      "topic": "Digital health"
+    },
+    {
+      "date": "2026-08-21",
+      "displayDate": "Aug 21, 2026",
+      "title": "Federal Register: Food and Drug Administration Modernization Act of 1997: Modifications to the List of Recognized Standards, Recognition List Number: 066",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.federalregister.gov/d/2026-17229",
+      "source": "FDA CDRH",
+      "topic": "Quality systems"
+    },
+    {
+      "date": "2026-08-03",
+      "displayDate": "Aug 3, 2026",
+      "title": "Content of Human Factors Information in Medical Device Marketing Submissions",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-human-factors-information-medical-device-marketing-submissions",
+      "source": "FDA CDRH",
+      "topic": "Quality systems"
+    },
+    {
+      "date": "2026-07-30",
+      "displayDate": "Jul 30, 2026",
+      "title": "Presentation, Slides, and Transcript posted for Town Hall – Content of Human Factors Information in Medical Device Marketing Submissions, Final Guidance - July 22, 2026",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/town-hall-content-human-factors-information-medical-device-marketing-submissions-final-guidance",
+      "source": "FDA CDRH",
+      "topic": "Quality systems"
+    },
+    {
+      "date": "2026-07-23",
+      "displayDate": "Jul 23, 2026",
+      "title": "Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Submissions - Guidance for Industry and Food and Drug Administration Staff",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/hemodialysis-blood-tubing-sets-premarket-notification-510k-submissions",
       "source": "FDA CDRH",
       "topic": "FDA guidance"
     }
