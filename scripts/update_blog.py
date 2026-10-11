@@ -158,12 +158,14 @@ def main() -> int:
     existing_urls = {entry["url"] for entry in data.get("entries", [])}
     additions = [entry for entry in candidate_entries(html) if entry["url"] not in existing_urls][:8]
     print(f"Found {len(additions)} new relevant item(s).")
-    if args.dry_run or not additions:
+    if args.dry_run:
         return 0
 
     entries = sorted(data.get("entries", []) + additions, key=lambda entry: entry["date"], reverse=True)[:80]
     data["entries"] = entries
-    data["generatedAt"] = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    data["lastCheckedAt"] = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    if additions:
+        data["generatedAt"] = data["lastCheckedAt"]
     args.entries_path.parent.mkdir(parents=True, exist_ok=True)
     args.feed_path.parent.mkdir(parents=True, exist_ok=True)
     args.entries_path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
