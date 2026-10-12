@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:34:57Z",
+  "generatedAt": "2026-10-12T14:38:02Z",
   "sourcePolicy": "Official FDA and Federal Register sources only. Entries are informational summaries with direct source links.",
   "entries": [
     {
@@ -172,6 +172,34 @@
       "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/hemodialysis-blood-tubing-sets-premarket-notification-510k-submissions",
       "source": "FDA CDRH",
       "topic": "FDA guidance"
+    },
+    {
+      "date": "2026-07-22",
+      "displayDate": "Jul 22, 2026",
+      "title": "TEMPO for Digital Health Devices Pilot",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/tempo-digital-health-devices-pilot",
+      "source": "FDA CDRH",
+      "topic": "Digital health"
+    },
+    {
+      "date": "2026-07-14",
+      "displayDate": "Jul 14, 2026",
+      "title": "Reports on Non-Device Software Functions",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/about-fda/cdrh-reports/reports-non-device-software-functions",
+      "source": "FDA CDRH",
+      "topic": "Digital health"
+    },
+    {
+      "date": "2026-07-06",
+      "displayDate": "Jul 6, 2026",
+      "title": "Cybersecurity News and General Resources",
+      "summary": "FDA CDRH posted or updated this public resource. Review the source for its status, scope, and applicability to your quality or validation process.",
+      "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/cybersecurity",
+      "source": "FDA CDRH",
+      "topic": "Digital health"
     }
-  ]
+  ],
+  "lastCheckedAt": "2026-10-12T14:38:02Z"
 }
